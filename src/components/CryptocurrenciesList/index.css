@@ -1,0 +1,23 @@
+.table-heading {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  color: white;
+  padding-left: 20px;
+  width: 100%;
+}
+.list-container {
+  width: 80%;
+}
+.dollar-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 200px;
+}
+.ul-container {
+  border: 3px solid #00e7ff;
+  width: 80%;
+  border-radius: 5px;
+  padding: 0px;
+}

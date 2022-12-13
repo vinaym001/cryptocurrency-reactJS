@@ -1,0 +1,16 @@
+.bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'roboto';
+}
+.heading {
+  color: #00e7ff;
+  font-size: 40px;
+}
+.img {
+  width: 80%;
+}

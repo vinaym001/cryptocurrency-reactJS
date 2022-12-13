@@ -1,0 +1,29 @@
+.table-heading1 {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  color: white;
+  padding-left: 20px;
+}
+.list-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.dollar-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 200px;
+}
+.logo-name-container {
+  display: flex;
+  align-items: center;
+  width: 100px;
+}
+.logo {
+  width: 16px;
+  height: 16px;
+  border-radius: 32px;
+  margin-right: 10px;
+}
